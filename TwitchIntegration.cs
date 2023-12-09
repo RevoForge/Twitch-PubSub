@@ -1,5 +1,4 @@
 using NativeWebSocket;
-using OWOGame;
 using System;
 using System.Collections;
 using System.Collections.Concurrent;
@@ -9,7 +8,7 @@ using System.Net;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
-using static OwoSensationBuilderAndTester;
+
 
 public class TwitchManager : MonoBehaviour
 {
